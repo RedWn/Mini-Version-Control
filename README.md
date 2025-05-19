@@ -1,4 +1,4 @@
-# A University Project inspired by MS Source Safe
+# A University Project inspired by MS SourceSafe
 
 A 5th-year university project for the Network Applications course. It's a minimal clone of the concepts found in [Microsoft's Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe)
 
